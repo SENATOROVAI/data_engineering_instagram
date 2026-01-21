@@ -37,12 +37,6 @@ instagram_usage_lifestyle.csv
 
 ---
 
-Файл для работы:
-```
-instagram_usage_lifestyle.csv
-```
----
-
 ## 4. Структура проекта
 ```
 data/
