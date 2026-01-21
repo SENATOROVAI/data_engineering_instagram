@@ -20,9 +20,7 @@
 https://drive.google.com/file/d/1HvdWy3m5SS66i3AV5V0k1Osu3RkKTbaV/view?usp=sharing
 
 Файл для работы:
-```
 instagram_usage_lifestyle.csv
-```
 
 ---
 ## 3. Цель проекта
